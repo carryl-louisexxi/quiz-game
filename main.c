@@ -315,9 +315,3 @@ if(cntr>=3)
 		{goto mainhome;}
 }
 }
-
-
-
-
-		
-	
